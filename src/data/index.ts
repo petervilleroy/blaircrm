@@ -3576,3 +3576,6 @@ export const opportunities: Opportunity[] = [
   { id: 'opp-079', accountId: 'acc-015', name: 'Vanguard – FastFix Upsell (Lost)', type: 'Upsell', amount: 120000, stage: 'Closed Lost', probability: 0, closeDate: '2026-01-08', products: ['FastFix Screw Sets'], ageInDays: 145, expectedRevenue: 0 },
   { id: 'opp-080', accountId: 'acc-013', name: 'Delta Pro – LevelUp Trial (Lost)', type: 'New SKU', amount: 55000, stage: 'Closed Lost', probability: 0, closeDate: '2025-11-20', products: ['LevelUp Precision Tools'], ageInDays: 194, expectedRevenue: 0 },
 ];
+
+// ─── ACTIVITIES ──────────────────────────────────────────────────────────────
+
